@@ -1,0 +1,11 @@
+# Medical imaging datasets
+Data Analysis/data/rsna_pneumonia/stage_2_train_images/
+
+# Python
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+
+# Virtual environments
+.venv/
+venv/
